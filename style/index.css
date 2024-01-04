@@ -4,6 +4,7 @@
 }
 .hero{
     font-size: 36px;
+    font-weight: 600;
     background-image: url('../images/cow.jpg');
     background-size: cover;
     background-position: bottom center;
@@ -13,4 +14,14 @@
     text-align: center;
     color: azure;
     padding-top: 300px;
+}
+.sec1{
+    margin: 50px auto;
+    padding: 0 10%;
+}
+.sec1 p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    text-decoration: solid;
 }
