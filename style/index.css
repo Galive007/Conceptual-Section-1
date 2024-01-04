@@ -3,6 +3,7 @@
     padding: 0;
 }
 .hero{
+    font-size: 36px;
     background-image: url('../images/cow.jpg');
     background-size: cover;
     background-position: bottom center;
@@ -11,5 +12,5 @@
 .hero h1{
     text-align: center;
     color: azure;
-
+    padding-top: 300px;
 }
