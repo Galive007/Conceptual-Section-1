@@ -3,17 +3,20 @@
     padding: 0;
 }
 .hero{
-    font-size: 36px;
-    font-weight: 600;
     background-image: url('../images/cow.jpg');
     background-size: cover;
     background-position: bottom center;
     height: 100vh;
 }
 .hero h1{
+    font-family: cursive;
+    font-size: 100px;
+    font-weight: 700;
     text-align: center;
     color: azure;
-    padding-top: 300px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    padding-top: 200px;
 }
 .sec1{
     margin: 50px auto;
@@ -21,7 +24,7 @@
 }
 .sec1 p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    text-align: justify;
-    text-decoration: solid;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 700;
 }
